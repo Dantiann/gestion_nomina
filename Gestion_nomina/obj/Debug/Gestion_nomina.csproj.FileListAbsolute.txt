@@ -1,0 +1,21 @@
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\bin\Debug\Gestion_nomina.exe.config
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\bin\Debug\Gestion_nomina.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\bin\Debug\Gestion_nomina.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.frmGestionnomina.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\bin\Debug\Gestion_nomina.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\bin\Debug\Gestion_nomina.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\bin\Debug\Gestion_nomina.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.frmGestionnomina.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\Gestion_nomina\obj\Debug\Gestion_nomina.pdb
