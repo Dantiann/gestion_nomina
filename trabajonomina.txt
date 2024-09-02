@@ -1,0 +1,64 @@
+lISTA DE EMPLEADOS
+
+Nomina mensual
+
+
+PRIMER BLOQUE
+Información del empleado:
+1. documento
+2. nombre
+3. sueldo (salario basico)
+4. días laborados.  
+
+
+SEGUNDO BLOQUE
+Información del devengado
+1. Sueldo pactado x un mes de trabajo (Basico)
+2. Sueldo devengado. Todo aquello que está a favor del empleado
+3. Horas extras (diuernas, nocturnas, festividades)
+   Mas de dos salarios minimos no devenga auxilio de transporte
+4. Se obtienen bonificaciones 
+5. total devengado
+
+TERCER BLOQUE
+Deducciones:
+1 Salud
+2 Pensión
+3 Sindicato
+4 Libranzas
+5 ARL
+
+Total deducciones
+
+
+CUARTO BLOQUE
+Neto Pagado
+
+
+	
+menor o igual a dos salarios minimos tiene derecho: auxilio de transporte
+Hora extra: vamos a trabajar unicamente 0.25 para todos 
+0.25 diurno
+0.75 nocturno
+1.25 festivo diuerno
+1.75 festivo nocturno
+
+(Calculo de valor día) sueldo pactado(sp) /30 días,
+
+cuánto gana en 1 día de trabajo Para liquilidar sp/240 hr
+
+valor hora diurna = (sp/240)*0.25
+
+vhed = sp/240)*0.25+sp/240
+
+liquidacion hed *  5
+
+gerencia
+
+
+
+titulo
+ tabla datagrif
+
+
+
