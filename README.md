@@ -1,4 +1,4 @@
 - Aplicativo de escritorio creado con c# en .NET Windows Forms donde se lleva la nomina de los empleados a traves del registro de datos por medio de un formulario.
-- Trabajo 3er trimestre.
-- Windows Forms App.
+- Windows Forms App (.NET Framework).
 - Manejo de varios componenentes del "ToolBox" y del uso de las  "Propierties"
+- Trabajo 3er trimestre.
